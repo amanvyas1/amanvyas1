@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanvyas1" alt="amanvyas1" /></a> </p>
 
 - 🌱 I’m currently learning **Java, SQL, Spring Boot**
-- 📫 How to reach me: aman.vyas.88864@gmail.com
+- 📫 How to reach me: [![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:aman.vyas.88864@gmail.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amanvyas88864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanvyas88864" height="30" width="40" /></a>
