@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanvyas1&label=Profile%20views&color=0e75b6&style=flat" alt="amanvyas1" /> </p>
 
-- 🌱 I’m currently learning **Java, SQL, Spring Boot**
+- 🌱 I’m currently learning **Java, SQL,Spring, Spring Boot**
 - 📫 How to reach me: [![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:aman.vyas.88864@gmail.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
